@@ -1,13 +1,28 @@
 ---
 ---
 
+$textColor: #666;
+$linkColor: #2879d0;
+$linkHoverColor: #2268b2;
+
+$headerColor: #fff;
+$headerBgColor: #2e7bcf;
+
+$highlightColor: #28CEB5;
+$highlightColor2: #8057C1;
+
+$dividerColor: #e9e9e9;
+
+$sectionNavColor: #fff;
+$sectionNavBgColor: #2e7bcf;
+$sectionNavBgHoverColor: #5599E1;
+
 body {
   font-size: 18px;
   line-height: 1.5;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: Georgia, 'Times New Roman', serif;
   font-weight: 400;
-  color: #666;
+  color: $textColor;
 }
 
 p {
@@ -15,37 +30,37 @@ p {
 }
 
 a {
-  color: #2879d0;
-}
-a:hover {
-  color: #2268b2;
+  color: $linkColor;
+
+  &:hover {
+    color: $linkHoverColor;
+  }
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: futura-pt, Avenir, Futura, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background-color: $headerBgColor;
 
   h1 {
     letter-spacing: -1px;
     font-size: 68px;
     font-weight: normal;
-    color: #fff;
+    color: $headerColor;
     line-height: 1;
     margin-top: 0;
     margin-bottom: 0.2em;
     width: 540px;
 
     a, a:hover {
-      color: #fff;
+      color: $headerColor;
     }
   }
 
   h2 {
     font-size: 26px;
-    color: #28CEB5;
+    color: $highlightColor;
     font-weight: normal;
     line-height: 1.3;
     width: 540px;
@@ -81,7 +96,7 @@ aside#sidebar {
   padding-left: 20px;
   min-height: 504px;
   float: right;
-  background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
+  border-left: $dividerColor 1px solid;
   font-size: 12px;
   line-height: 1.3;
 
@@ -134,7 +149,7 @@ pre {
   border: solid 1px #f2f2f2;
 }
 pre code {
-  color: #2879d0;
+  color: $linkColor;
   background-color: #fff;
   border: none;
   padding: 0;
@@ -196,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 
     &:before {
       content: "▶";
-      color: #28CEB5;
+      color: $highlightColor;
       padding-right: 0.3em;
       margin-left: -0.9em;
     }
@@ -210,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 
     &:before {
       content: "■";
-      color: #8057C1;
+      color: $highlightColor2;
       padding-right: 0.3em;
       margin-left: -1.5em;
     }
@@ -228,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
 
     &:before {
       content: "◀";
-      color: #28CEB5;
+      color: $highlightColor;
       padding-right: 0.3em;
       margin-left: -2em;
     }
@@ -263,7 +278,7 @@ p a {
 
 blockquote {
   font-size: 1em;
-  border-left: 10px solid #e9e9e9;
+  border-left: 10px solid $dividerColor;
   margin-bottom: 20px;
   padding: 0 0 0 30px;
 }
@@ -291,7 +306,7 @@ footer {
   color: #aaa;
 
   a {
-    color: #666;
+    color: $textColor;
     &:hover {
       color: #444;
     }
@@ -374,8 +389,8 @@ footer {
       text-align: center;
       font-size: 13px;
       line-height: 1;
-      background-color: #28CEB5;
-      color: #2879d0;
+      background-color: $highlightColor;
+      color: $linkColor;
       -moz-border-radius: 5px;
       -webkit-border-radius: 5px;
       border-radius: 5px;
@@ -429,7 +444,7 @@ footer {
   text-align: center;
   padding-top: 40px;
   position: relative;
-  background: url(../images/article-footer.png) top center no-repeat;
+  border-top: $dividerColor 1px solid;
   margin: 40px -20px 10px;
   div { width: 49.5%; }
 
@@ -439,23 +454,20 @@ footer {
   }
 
   a:hover {
-      color: #fff;
-      background-color: #5599E1;
+      color: $sectionNavColor;
+      background-color: $sectionNavBgHoverColor;
   }
 
   a, span {
-      color: #fff;
+      color: $sectionNavColor;
+      background-color: $sectionNavBgColor;
       font-size: 16px;
       font-family: futura-pt, Avenir, Futura, 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase;
-      text-shadow: 0 1px 3px rgba(0,0,0,.5);
-      font-weight: 700;
       padding: 8px 12px 10px;
       -webkit-border-radius: 5px;
       -moz-border-radius: 5px;
       border-radius: 5px;
-      box-shadow: 0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5);
-      background-color: #2a7fda;
     }
 
   .next, .prev {
@@ -465,8 +477,6 @@ footer {
   .next:after, .prev:before {
       font-size: 36px;
       color: #222;
-      font-weight: 900;
-      text-shadow: 0 1px 0 rgba(255,255,255,.4);
       position: absolute;
       top: -7px;
   }

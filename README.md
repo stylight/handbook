@@ -13,7 +13,7 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 
 Tell git to download the handbook source:
 
-    git clone https://github.com/stylight/handbook.git
+    git clone git@github.com:stylight/handbook.git
     cd handbook
 
 You should now have the whole thing, including the README.md file that you are reading right now!

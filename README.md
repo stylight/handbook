@@ -1,5 +1,3 @@
----
----
 # Stylight handbook - tech setup for the site
 
 Stylight handbook is a web site that describes how Stylight works and why. The source lives on github and is auto-published on [http://stylight.com/handbook](http://stylight.com/handbook) every time a change is pushed.
@@ -16,7 +14,7 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 Tell git to download the handbook source:
 
     git clone https://github.com/stylight/handbook.git
-	cd handbook
+    cd handbook
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
@@ -52,5 +50,3 @@ That's it, your local copy of the Stylight handbook site should be up and runnin
 [http://localhost:4000](http://localhost:4000)
 
 Every time you edit a source doc (under _docs) it will update the site automatically.
-
-

@@ -1,6 +1,6 @@
 ---
 title: Your first day
-prev_section: personal-development.html
+prev_section: feedback.html
 next_section: your-first-month.html
 ---
 

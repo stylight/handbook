@@ -1,6 +1,6 @@
 ---
 title: The office
-prev_section: communication.html
+prev_section: meetings.html
 next_section: recruiting.html
 ---
 

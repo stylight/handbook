@@ -1,13 +1,13 @@
 ---
 title: Communication
 prev_section: a-typical-week.html
-next_section: the-office.html
+next_section: meetings.html
 ---
 
 h1. Communication
 
 Our *main internal communication channels* are:
-* Meeting in the atrium or by the coffee machine
+* Meeting someone in the atrium or by the coffee machine
 * Team Weekly every Friday at 5pm - every department presents their high and low lights of this week
 * Email for 'official' things
 * Hangout for things you need a quick answer for

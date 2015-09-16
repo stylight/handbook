@@ -1,7 +1,7 @@
 ---
 title: Personal development
-prev_section: meetings.html
-next_section: your-first-day.html
+prev_section: development-process.html
+next_section: feedback.html
 ---
 
 h1. Personal development

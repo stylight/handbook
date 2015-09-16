@@ -1,7 +1,7 @@
 ---
 title: Development process
 prev_section: goals.html
-next_section: meetings.html
+next_section: personal-development.html
 ---
 
 h1. Development process

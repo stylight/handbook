@@ -1,7 +1,7 @@
 ---
 title: Meetings
-prev_section: development-process.html
-next_section: personal-development.html
+prev_section: communication.html
+next_section: the-office.html
 ---
 
 h1. Meetings

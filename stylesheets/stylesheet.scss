@@ -326,6 +326,29 @@ footer {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+table#feedback-knobs {
+  border: 0;
+  td {
+    border: 0;
+    text-align: center;
+  }
+  img {
+    max-width: 50%;
+  }
+}
+
+table#sets-of-guiding-questions, table#give-feedback, table#receive-feedback {
+  border: 0;
+  td {
+    border: 0;
+    text-align: left;
+    padding: 5px;
+  }
+  img {
+    max-width: 48px;
+  }
+}
+
 /* #Media Queries
 ================================================== */
 

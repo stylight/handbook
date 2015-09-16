@@ -8,8 +8,8 @@
   - roles.html
   - goals.html
   - development-process.html
-  - meetings.html
   - personal-development.html
+  - feedback.html
 
 - title: Misc
   docs:
@@ -17,6 +17,7 @@
   - your-first-month.html
   - a-typical-week.html
   - communication.html
+  - meetings.html
   - the-office.html
   - recruiting.html
 

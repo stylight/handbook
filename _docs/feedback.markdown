@@ -31,6 +31,8 @@ If you got feedback for someone you shouldn't wait, but give it to them right aw
 * 3 peers is a good tradeoff between broad vs. deep feedback
 * don’t do anonymous feedback for now, because of high risk of blowbacks and frustration
 
+<a name="how"></a>
+
 ## How does this peer group thing work anyway?
 
 * [Pick 3 people](#pick), and [invite](#invite) them to be in your peer group
@@ -149,8 +151,8 @@ You may pick a set of guiding questions that other companies use below. You can 
           <li>What concerns me most?</li>
           <li>What changes, if any, would I suggest in my role?</li>
           <li>What ongoing professional development will help me to grow in my current role and in the future?</li>
-          <li>How can STYLIGHT help me to grow?</li>
-          <li>What would make me more valuable for my team / STYLIGHT?</li>
+          <li>How can the organisation help me to grow?</li>
+          <li>What would make me more valuable for my team / the organisationn?</li>
         </ul></td>
     </tr>
 </table>

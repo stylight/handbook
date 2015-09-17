@@ -18,7 +18,7 @@ Tell git to download the handbook source:
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
-The web site source files are under _docs, have a look! They are written using [textile](http://redcloth.org/textile) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://stylight.com/handbook.
+The web site source files are under _docs, have a look! They are written using [markdown](http://daringfireball.net/projects/markdown/syntax) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://stylight.com/handbook.
 
 ## 3. Install Jekyll and related tools
 

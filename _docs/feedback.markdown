@@ -239,3 +239,12 @@ You should clarify this with your peer group before / at the beginning of your f
   * Manuel: If you don’t have the time to properly prepare for a peer feedback session or have any other important reason you may decline an invite. If someone declines to be in your peer group don’t be offended. It is probably more helpful if they say no rather than saying yes, but can’t put in the effort.
 * **I just started working here. Should I still meet with a peer group?**
   * Manuel: Your peers may not be able to give you much feedback about your performance so far. You could, however, talk with them about your goals and aspirations by choosing more future focussed [guiding questions](#guiding-questions).
+
+## Further reading
+
+* Buffer blog post: [How to give and receive feedback at work](https://open.bufferapp.com/how-to-give-receive-feedback-work/)
+* HBR post: [The key to giving and receiving negative feedback](https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback)
+* Google Doc: [Guidelines for feedback sessions](https://docs.google.com/a/stylight.de/document/d/1G9-Pg4kJQEe-0jfk80vLWEloNSiw8Uu28_W2bUI1GeU/edit?usp=sharing)
+* Know How Non Profit: [Giving and receiving feedback](http://knowhownonprofit.org/people/your-development/working-with-people/feedback)
+* Hypoport blog: [How they do peer feedback](http://blog-it.hypoport.de/2014/03/27/ready-for-peer-feedback/) & [an experience report](http://blog-it.hypoport.de/2014/05/16/peer-feedback-reality-check/) (German)
+

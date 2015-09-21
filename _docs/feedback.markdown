@@ -70,9 +70,9 @@ Ask them personally or write them an email. Something like this maybe.
 >
 > I would very much value your feedback. Please let me know, if you want to be in my peer group. If you do, please take 30 minutes to reflect on the following guiding questions about me and take some notes.
 >
-> I will find a suitable time and send you an invite once I gathered my entire peer group.
->
 > _your favorite set of [guiding questions](#guiding-questions) here_
+>
+> I will find a suitable time and send you an invite once I gathered my entire peer group.
 >
 > Thank you,
 > _me_
@@ -152,7 +152,7 @@ You may pick a set of guiding questions that other companies use below. You can 
           <li>What changes, if any, would I suggest in my role?</li>
           <li>What ongoing professional development will help me to grow in my current role and in the future?</li>
           <li>How can the organisation help me to grow?</li>
-          <li>What would make me more valuable for my team / the organisationn?</li>
+          <li>What would make me more valuable for my team / the organisation?</li>
         </ul></td>
     </tr>
 </table>

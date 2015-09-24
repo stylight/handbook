@@ -1,5 +1,5 @@
 ---
-title: How we are structured
+title: Org structure
 prev_section: what-we-value.html
 next_section: roles.html
 ---

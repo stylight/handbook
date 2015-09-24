@@ -202,7 +202,7 @@ You should clarify this with your peer group before / at the beginning of your f
     </tr>
     <tr>
         <td><img src="../assets/connect.jpg" alt="connect"></td>
-        <td><strong>Don’t be detached, try to connect</strong> Speak in <em>“I” language</em>, to share how you have been inspired, touched, puzzled, hurt, frustrated, or angered as a result of what the other person has said or done.</td>
+        <td><strong>Don’t be detached, try to connect</strong> Speak in <em>“I” language</em>, to share how you have been inspired, touched, puzzled, hurt, frustrated, or angered as a result of what the other person has said or done. Use <a href="http://www.wikihow.com/Practice-Nonviolent-Communication">nonviolent communication</a>.</td>
     </tr>
 </table>
 

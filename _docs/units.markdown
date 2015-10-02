@@ -17,3 +17,5 @@ There are three divisions - inspiration (green), shopping (purple) and operation
 ## Guilds
 
 Since squads are cut along business functions, employees with the same specialties are spread across different squads. To exchange knowledge within our specialties there are guilds (aka communities of practice or short CoPs). Which guilds you join is up to you. Go ahead and [browse the guild calendar](https://www.google.com/calendar/render?cid=stylight.de_3sci6nglq00utd2d6ocdml1938@group.calendar.google.com) and go to a few meetings to see if you like them. Missing a guild? Then start it!
+
+Other ways we share knowledge are [Brown Bag Lunches](http://engineering.stylight.com/run-brown-bag-lunches/) and documenting our learnings from personal development - like books we read or conferences we attended - in [this tool](http://participativeorg.meteor.com?domain=stylight-com).

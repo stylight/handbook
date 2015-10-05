@@ -10,6 +10,7 @@ Our **main internal communication channels** are:
 
 * Meeting someone in the atrium or by the coffee machine
 * Team Weekly every Friday at 5pm - every department presents their high and low lights of this week
+* Boards - mostly physical for squads that sit togehter, we also have a [Trello company account](https://trello.com/stylight1)
 * [Email](https://mail.google.com) for 'official' things
 * [Hangout](https://hangouts.google.com/) for things you need a quick answer for
 * [Slack](http://stylight.slack.com) for chattier asynchronous stuff

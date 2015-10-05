@@ -10,14 +10,14 @@ Our **main internal communication channels** are:
 
 * Meeting someone in the atrium or by the coffee machine
 * Team Weekly every Friday at 5pm - every department presents their high and low lights of this week
-* Email for 'official' things
-* Hangout for things you need a quick answer for
+* [Email](https://mail.google.com) for 'official' things
+* [Hangout](https://hangouts.google.com/) for things you need a quick answer for
 * [Slack](http://stylight.slack.com) for chattier asynchronous stuff
 
 Where we **store info**:
 
 * [Google Drive](https://drive.google.com) - we use it for almost everything now a days.
-* GitHub - a github [organization account](https://github.com/stylight) for code and, well, the Stylight handbook that you are reading right now.
+* Github [organization account](https://github.com/stylight) for code and, well, the Stylight handbook that you are reading right now.
 
 How we **communicate with the outside world**:
 

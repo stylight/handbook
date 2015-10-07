@@ -6,7 +6,7 @@ next_section: personal-development.html
 
 # Development process
 
-We work in [cross-functional teams](http://engineering.stylight.com/formed-cross-functional-business-teams/) that we call [squads](units.html). In general, decisions on [team composition](http://engineering.stylight.com/tag/team-composition/) are trade-offs between which communication is made easy and which is made difficult. Cross-functional teams optimise in favour of easy communication across functions (or roles) and along value chains and against easy communication between people with the same function. Functional silos, as the name suggests, optimise the other way. Our assumption behind favoring cross-functional teams is that the improved communication along the value chain is overall more effective, even though individuals might be less efficient in their function.
+We work in [cross-functional teams](http://engineering.stylight.com/formed-cross-functional-business-teams/) that we call [squads](units.html). In general, decisions about [team composition](http://engineering.stylight.com/tag/team-composition/) involve trade-offs between communication made easy and communication made difficult. Cross-functional teams optimise in favour of easy communication across functions (or roles) and along value chains and against easy communication between people with the same function. Functional silos, as the name suggests, optimise the other way. Our assumption behind favoring cross-functional teams is that the improved communication along the value chain is overall more effective, even though individuals might be less efficient in their function.
 
 ![Team composition](../assets/TeamComposition.jpg)
 

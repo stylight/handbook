@@ -17,7 +17,7 @@ Feedback should...
 
 ## When does feedback happen?
 
-If you got feedback for someone you shouldn't wait, but give it to them right away. Nevertheless we find it helpful to have some time cut out to reflect and get feedback, because otherwise it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your people manager and group meetings with your peer group.
+If you got feedback for someone you shouldn't wait, but give it to them right away. Nevertheless we find it helpful to have some time cut out to reflect and get feedback, because otherwise it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your people manager and group meetings with your peer group. Getting feedback from peer groups is voluntary, but recommended.
 
 ![Feedback timeline](../assets/FeedbackTimeline.png)
 
@@ -70,18 +70,20 @@ Ask them personally or write them an email. Something like this maybe.
 >
 > I would very much value your feedback. Please let me know, if you want to be in my peer group. If you do, please take 30 minutes to reflect on the following guiding questions about me and take some notes.
 >
-> _your favorite set of [guiding questions](#guiding-questions) here_
+> _your favorite set of [guiding questions or metaphor](#guiding-questions) here_
 >
 > I will find a suitable time and send you an invite once I gathered my entire peer group.
 >
 > Thank you,
 > _me_
 
+Most people appreciate to know well ahead of time that you would like them in your peer group. The earlier you let them know, the better.
+
 <a name="guiding-questions"></a>
 
-## Guiding questions
+## Guiding questions or metaphor
 
-You may pick a set of guiding questions that other companies use below. You can also mix and match or invent your own. Which guiding questions work best for you also depends on what [kind of feedback](#kind) you are looking for.
+You may pick a set of guiding questions that other companies use below. You can also mix and match or invent your own. Or pick one of these [retro tools](https://docs.google.com/a/stylight.de/document/d/1GPxiyIRg6B_rIrJ0mld02emoaAZ3IKFvx6pbD56FZbg/edit?usp=sharing). Which guiding questions work best for you also depends on what [kind of feedback](#kind) you are looking for.
 
 <table id="sets-of-guiding-questions">
     <tr>

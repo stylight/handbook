@@ -1,6 +1,6 @@
 # Stylight handbook - tech setup for the site
 
-Stylight handbook is a web site that describes how Stylight works and why. The source lives on github and is auto-published on [http://stylight.com/handbook](http://stylight.com/handbook) every time a change is pushed.
+Stylight handbook is a web site that describes how Stylight works and why. The source lives on github and is auto-published on [http://stylight.github.io/handbook](http://stylight.github.io/handbook) every time a change is pushed.
 
 Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://stylight.com/handbook/docs/how-to-copy.html) for more options on how to clone the Stylight model.
 

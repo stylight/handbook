@@ -56,5 +56,5 @@ We appreciate all feedback.
 
 If you have a question feel free to [File an issue](https://github.com/stylight/handbook/issues/new) on the handbook repo (pick the "question" label to the right).
 
-If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the "blog post announcing this launch](http://blog.stylight.com).
+If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the [blog post announcing this launch](http://blog.stylight.com).
 

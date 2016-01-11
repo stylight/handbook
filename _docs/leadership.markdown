@@ -6,7 +6,8 @@ next_section: your-first-day.html
 
 # Leadership
 
-Founder Preamble
+## Founder Preamble
+
 * We are committed to an organization in which the four founders act as servant leaders. 
 * We put our strengths at the disposal of the organization in an advisory capacity. 
 * The responsibilities for tasks follow the strengths of the founders. 

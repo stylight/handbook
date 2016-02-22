@@ -17,7 +17,7 @@ Feedback should...
 
 ## When does feedback happen?
 
-If you got feedback for someone you shouldn't wait, but give it to them right away. Nevertheless we find it helpful to have some time cut out to reflect and get feedback, because otherwise it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your people manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your people manager instead.
+If you got feedback for someone, you shouldn't wait: give it to them right away. Nevertheless, we find it helpful to have some time cut out to reflect and get feedback. Otherwise, it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your people manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your people manager instead.
 
 ![Feedback timeline](../assets/FeedbackTimeline.png)
 
@@ -249,4 +249,3 @@ You should clarify this with your peer group before / at the beginning of your f
 * Google Doc: [Guidelines for feedback sessions](https://docs.google.com/a/stylight.de/document/d/1G9-Pg4kJQEe-0jfk80vLWEloNSiw8Uu28_W2bUI1GeU/edit?usp=sharing)
 * Know How Non Profit: [Giving and receiving feedback](http://knowhownonprofit.org/people/your-development/working-with-people/feedback)
 * Hypoport blog: [How they do peer feedback](http://blog-it.hypoport.de/2014/03/27/ready-for-peer-feedback/) & [an experience report](http://blog-it.hypoport.de/2014/05/16/peer-feedback-reality-check/) (German)
-

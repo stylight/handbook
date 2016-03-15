@@ -36,16 +36,17 @@ If you got feedback for someone, you shouldn't wait: give it to them right away.
 ## How does this peer group thing work anyway?
 
 * [Pick 3 people](#pick), and [invite](#invite) them to be in your peer group
-* Arrange a 1-2 hour meeting with them for the end of the quarter - pick a quiet space with a good atmosphere.
-* Before the meeting you and your peers reflect on [guiding questions](#guiding-questions) - make some notes.
-* Meet - in person, if possible.
+* Arrange a 1 hour group meeting with them for the end of the quarter - pick a quiet space with a good atmosphere.
+* In your invitation
   * Clarify what [kind of feedback](#kind) you are looking for right now.
+  * Give your peers a set of [guiding questions](#guiding-questions) that you would like to discuss
+* Before the meeting you and your peers reflect on [guiding questions](#guiding-questions) - make some notes.
+* Meet as a group - in person, if possible.
   * Remind yourself on how to [give](#give) and [receive](#receive) feedback.
-  * Present your point of view - based on your reflection outcomes and personal OKR results.
-  * Your peers share their points of view and challenge yours - focus on behaviour, not the person.
+  * Everyone shares their points of view on the guiding questions - focus on behaviour, not the person.
   * Discuss - be curious, not defensive. Take some notes.
   * Come up with new personal OKRs - during or after the session.
-  * Thank your peers for their feedback - especially if critical thoughts have been voiced.
+  * Thank your peers for their feedback.
 * Reflect on the feedback - the received feedback is yours and yours alone,
 you decide what to do with it
 
@@ -204,7 +205,7 @@ You should clarify this with your peer group before / at the beginning of your f
     </tr>
     <tr>
         <td><img src="../assets/connect.jpg" alt="connect"></td>
-        <td><strong>Don’t be detached, try to connect</strong> Speak in <em>“I” language</em>, to share how you have been inspired, touched, puzzled, hurt, frustrated, or angered as a result of what the other person has said or done. Use <a href="http://www.wikihow.com/Practice-Nonviolent-Communication">nonviolent communication</a>.</td>
+        <td><strong>Don’t be detached, try to [connect](https://medium.com/@joyc/giving-feedback-lovingly-ece480479a52#.scthot41x)</strong> Speak in <em>“I” language</em>, to share how you have been inspired, touched, puzzled, hurt, frustrated, or angered as a result of what the other person has said or done. Use <a href="http://www.wikihow.com/Practice-Nonviolent-Communication">nonviolent communication</a>.</td>
     </tr>
 </table>
 

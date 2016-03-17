@@ -90,7 +90,7 @@ You may pick a set of guiding questions that other companies use below. You can 
 
 <table id="sets-of-guiding-questions">
     <tr>
-        <td><a href="http://www.jimdo.com/"><img src="https://pbs.twimg.com/profile_images/626392621506695168/AFQoy1nU_normal.png" alt="Jimdo"></a></td>
+        <td><a href="http://www.jimdo.com/"><img src="https://pbs.twimg.com/profile_images/684331286102683648/OPhNPPhJ_normal.png" alt="Jimdo"></a></td>
         <td><ul>
           <li>I am particularly good at…</li>
           <li>My work is particularly easy for me when… / It is particularly easy to work with you when…</li>

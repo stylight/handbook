@@ -40,7 +40,9 @@ If you got feedback for someone, you shouldn't wait: give it to them right away.
 * In your invitation
   * Clarify what [kind of feedback](#kind) you are looking for right now.
   * Give your peers a set of [guiding questions](#guiding-questions) that you would like to discuss
-* Before the meeting you and your peers reflect on [guiding questions](#guiding-questions) - make some notes.
+* Before the meeting you and your peers reflect on the [guiding questions](#guiding-questions)
+  * set yourself a 30 minute timebox
+  * make some notes
 * Meet as a group - in person, if possible.
   * Remind yourself on how to [give](#give) and [receive](#receive) feedback.
   * Everyone shares their points of view on the guiding questions - focus on behaviour, not the person.

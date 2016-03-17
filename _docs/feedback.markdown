@@ -115,7 +115,7 @@ You may pick a set of guiding questions that other companies use below. You can 
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://open.bufferapp.com/how-to-give-receive-feedback-work/"><img src="https://pbs.twimg.com/profile_images/618822427737329664/W2K67Gs__normal.jpg" alt="Buffer"></a></td>
+        <td><a href="https://open.bufferapp.com/how-to-give-receive-feedback-work/"><img src="https://buffer.com/images/press/logo-dark.png" alt="Buffer"></a></td>
         <td><ul>
           <li>If you had to make two suggestions for improving my work, what would they be?</li>
           <li>How could I handle my projects more effectively?</li>

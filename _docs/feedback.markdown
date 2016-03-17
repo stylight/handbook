@@ -226,7 +226,7 @@ You should clarify this with your peer group before / at the beginning of your f
     </tr>
     <tr>
         <td><img src="../assets/growth.jpg" alt="growth"></td>
-        <td><strong>Cultivate a growth mindset</strong> See mistakes and feedback as <em>opportunities to grow</em>, rather than failures.</td>
+        <td><strong>Cultivate a <a href="https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/">growth mindset</a></strong> See mistakes and feedback as <em>opportunities to grow</em>, rather than failures.</td>
     </tr>
 </table>
 

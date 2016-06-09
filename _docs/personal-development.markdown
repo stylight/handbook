@@ -1,7 +1,7 @@
 ---
 title: Personal development
 prev_section: development-process.html
-next_section: mentoring.html
+next_section: feedback.html
 ---
 
 # Personal development

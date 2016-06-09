@@ -1,6 +1,6 @@
 ---
 title: Leadership
-prev_section: feedback.html
+prev_section: mentoring.html
 next_section: your-first-day.html
 ---
 

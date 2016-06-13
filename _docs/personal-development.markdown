@@ -8,9 +8,9 @@ next_section: feedback.html
 
 ## Career at Stylight
 
-To make career at Stylight you don't have to become a manager, if that is not what you want. We equally value you getting better and growing your influence in your domain. We don't want Stylight to be only 'up or out'.
+To make career at Stylight you don't have to become a manager, if that is not what you want. We equally value you getting better and growing your impact in your domain. We don't want Stylight to be only 'up or out'.
 
-To discuss your personal development we use the following model. There are five main characteristics that we find valuable in employees. And we measure them in sphere of influence.
+To discuss your personal development we use the following model. There are five main characteristics that we find valuable in employees and we measure them in sphere of impact. Meaning, if you consistently demonstrate them on personal, team or company level.
 
 1. You embody our three core company values
    * Enthusiasm: Continuously improve yourself and team

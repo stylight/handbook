@@ -41,4 +41,5 @@ Mentoring is very individual, so there is no fixed cycle you need to follow. It 
 * listen, then listen some more
 * offer suggestions and knowledge, both general and specific
 * ask challenging questions
+* if you agree to be a mentor, be prepared for the time investment
 * can become the mentee’s confidante and adviser

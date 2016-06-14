@@ -86,7 +86,7 @@ Most people appreciate to know well ahead of time that you would like them in yo
 
 ## Guiding questions or metaphor
 
-You may pick a set of guiding questions that other companies use below. You can also mix and match or invent your own. Or pick one of these [retro tools](https://docs.google.com/a/stylight.de/document/d/1GPxiyIRg6B_rIrJ0mld02emoaAZ3IKFvx6pbD56FZbg/edit?usp=sharing). Which guiding questions work best for you also depends on what [kind of feedback](#kind) you are looking for.
+You may pick a set of guiding questions that other companies use below. You can also mix and match or invent your own. Or pick one of these [retro tools [Stylight login required]](https://docs.google.com/a/stylight.de/document/d/1GPxiyIRg6B_rIrJ0mld02emoaAZ3IKFvx6pbD56FZbg/edit?usp=sharing). Which guiding questions work best for you also depends on what [kind of feedback](#kind) you are looking for.
 
 <table id="sets-of-guiding-questions">
     <tr>
@@ -249,6 +249,6 @@ You should clarify this with your peer group before / at the beginning of your f
 
 * Buffer blog post: [How to give and receive feedback at work](https://open.bufferapp.com/how-to-give-receive-feedback-work/)
 * HBR post: [The key to giving and receiving negative feedback](https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback)
-* Google Doc: [Guidelines for feedback sessions](https://docs.google.com/a/stylight.de/document/d/1G9-Pg4kJQEe-0jfk80vLWEloNSiw8Uu28_W2bUI1GeU/edit?usp=sharing)
+* Google Doc: [Guidelines for feedback sessions [Stylight login required]](https://docs.google.com/a/stylight.de/document/d/1G9-Pg4kJQEe-0jfk80vLWEloNSiw8Uu28_W2bUI1GeU/edit?usp=sharing)
 * Know How Non Profit: [Giving and receiving feedback](http://knowhownonprofit.org/people/your-development/working-with-people/feedback)
 * Hypoport blog: [How they do peer feedback](http://blog-it.hypoport.de/2014/03/27/ready-for-peer-feedback/) & [an experience report](http://blog-it.hypoport.de/2014/05/16/peer-feedback-reality-check/) (German)

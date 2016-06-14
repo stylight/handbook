@@ -12,7 +12,7 @@ Even though we are growing, we try to keep the hierarchy as flat as possible and
 
 ## Teams
 
-Most teams are [cross-functional](http://engineering.stylight.com/formed-cross-functional-business-teams/) - meaning, they have all the (different) skills they need to fulfil their mission. This implies that most of your team colleagues will have different specialties than you do. A team might consist of developers, designers, UX experts, business experts, etc.
+Most teams are [cross-functional](http://engineering.stylight.com/formed-cross-functional-business-teams/) - meaning, they have all the (different) skills they need to fulfill their mission. This implies that most of your team colleagues will have different specialties than you do. A team might consist of developers, designers, UX experts, business experts, etc.
 
 ## Central functions
 

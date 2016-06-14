@@ -15,13 +15,10 @@ We use Objectives and Key Results (OKRs) to set goals and track our progress tow
 * OKRs are **not used for employee evaluation**. They are a communication tool that helps us arrive at a common understanding and alignment towards a goal.
 * OKRs exist to set **clear priorities** and to *focus* the organization by aligning everyone towards the same goals. In order to do that, we use **few** OKRs. Each individual or team should have 1-3 objectives and 1-3 key results per objective. Less is more here.
 
-## Company OKRs
-The company OKRs are the goals behind Stylight’s mission and strategy (most likely a revenue goal). They are set each year by the management.
+## Company Strategic Goals
+The strategic goals of the company build the basis for all our team OKRs. They are set each year by management.
 
 ## Team OKRs
 Team OKRs are defined collaboratively every quarter and for each team in a bottom up approach. Each team defines objectives toward Stylight’s company mission and company OKRs. They help us arrive at a common understanding and align our efforts. Every team reports their progress during the Team Weekly.
 
-## Individual OKRs
-Your individual OKRs are used to keep track of your personal development and are defined by yourself with the help of your manager. These are not used to determine promotions. They are for you to plan your personal development and to keep an eye on what you’ve accomplished.
-
-Read [this](http://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) and [this](http://bit.ly/okrs-explained), if you want to know more about OKRs.
+For further background information, watch [how Google uses OKRs](http://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) and read [this description of the fundamentals of OKRs](http://bit.ly/okrs-explained).

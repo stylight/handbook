@@ -18,9 +18,9 @@ Although we happen to produce a fashion and lifestyle product, there is nothing 
 
 The Stylight handbook is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort!
 
-## Can I call my company Stylight?
+## Can I keep Stylight as an organization name?
 
-Please don't. We can't legally stop you from calling your organization Stylight, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
+No. Stylight is a registered company and brand in many countries. You need to pick a different name and change it throughout your clone of this handbook.
 
 ## How do I create my own copy of the Stylight handbook site?
 
@@ -57,4 +57,3 @@ We appreciate all feedback.
 If you have a question feel free to [File an issue](https://github.com/stylight/handbook/issues/new) on the handbook repo (pick the "question" label to the right).
 
 If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the [blog post announcing this launch](http://blog.stylight.com).
-

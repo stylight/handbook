@@ -16,7 +16,7 @@ Most teams are [cross-functional](http://engineering.stylight.com/formed-cross-f
 
 ## Central functions
 
-While some functions are spread across several teams (e.g. engineering), others are centralized (e.g. HR). This is mostly a communication trade-off. Our current setup is the most effective one for us at this point, but this might change in the future.
+While some functions are spread across several teams (e.g. engineering), others are centralized (e.g. People & Organization). This is mostly a communication trade-off. Our current setup is the most effective one for us at this point, but this might change in the future.
 
 ## Guilds
 

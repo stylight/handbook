@@ -1,7 +1,7 @@
 ---
 title: Leadership
 prev_section: mentoring.html
-next_section: your-first-day.html
+next_section: knowledge-sharing.html
 ---
 
 # Leadership

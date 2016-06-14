@@ -1,6 +1,6 @@
 ---
 title: Your first day
-prev_section: feedback.html
+prev_section: knowledge-sharing.html
 next_section: your-first-month.html
 ---
 

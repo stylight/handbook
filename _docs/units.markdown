@@ -20,6 +20,4 @@ While some functions are spread across several teams (e.g. engineering), others 
 
 ## Guilds
 
-Since teams are cut along business functions, employees with the same specialties are spread across different teams, like engineers and designers. To exchange knowledge within our specialties there are guilds (aka communities of practice or short CoPs). Which guilds you join is up to you. Go ahead and [browse the guild calendar](https://www.google.com/calendar/render?cid=stylight.de_3sci6nglq00utd2d6ocdml1938@group.calendar.google.com) and go to a few meetings to see if you like them. Missing a guild? Then start it!
-
-Other ways we share knowledge are [Brown Bag Lunches](http://engineering.stylight.com/run-brown-bag-lunches/).
+Since teams are cut along business functions, employees with the same specialties are spread across different teams, like engineers and designers. To exchange knowledge within our specialties we meet in [guilds](knowledge-sharing.html).

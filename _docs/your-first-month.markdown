@@ -8,7 +8,7 @@ next_section: a-typical-week.html
 
 You tasted the 25 at [Phở](http://www.pho-muenchen.de/) and you are addicted now. That’s OK. It happens to everyone. The coffee machine became one of your best friends, and you're happy to help her out if she kindly asks you to “Empty [her] Drawer” ;)
 
-As you get more comfortable in your own team’s environment, remember you are one of many pieces in the greater Stylight puzzle. The [@StylightTech Bootcamp](https://docs.google.com/presentation/d/1Vm8saAQAOwXJJAhMRYG4JDODCIDMoAU1UjIEAQqjUec/) gives you an overview of other teams' technical underpinnings.
+As you get more comfortable in your own team’s environment, remember you are one of many pieces in the greater Stylight puzzle. The [@StylightTech Bootcamp [Stylight login required]](https://docs.google.com/presentation/d/1Vm8saAQAOwXJJAhMRYG4JDODCIDMoAU1UjIEAQqjUec/) gives you an overview of other teams' technical underpinnings.
 
 You’ve most likely felt a little bit lost with all the numbers during your first Team Weeklys, but a delicious Bavarian brew afterwards made it all better. Don’t worry, it will start making more sense as you get more familiar with the other departments’ [OKRs](goals.html). Various intro sessions that you’ll be invited to should help with this as well.
 

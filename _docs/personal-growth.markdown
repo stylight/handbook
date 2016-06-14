@@ -35,4 +35,4 @@ There is a vibrant community that will help you along the way of your personal g
 
 ## Personal development budget
 
-Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You find the all the details in our [Development Budget Guidelines](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)
+Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You find the all the details in our [Development Budget Guidelines [Stylight login required]](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)

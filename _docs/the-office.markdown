@@ -16,7 +16,7 @@ There are very few small office rooms. We value the amplified communication of s
 
 ## Events
 
-The atrium turns into a stage for [meetups](http://engineering.stylight.com/), [events](http://blog.stylight.com/category/events/), [conferences](http://daho.am/) or even a public viewing location for sport events. Subscribe to the [Stylight events calendar](https://www.google.com/calendar/render?cid=stylight.de_mp0pspf6i6gukj8032rc4qmcec@group.calendar.google.com) to see what’s up. If you would like to host an event at the office yourself, please use this [form](https://docs.google.com/a/stylight.com/forms/d/1WMW71cJsGtMrAetvXHPJhA88ZSD0JTt8KtnXSvCsNEs/viewform?usp=send_form) to make sure there are no date conflicts with other events.
+The atrium turns into a stage for [meetups](http://engineering.stylight.com/), [events](http://blog.stylight.com/category/events/), [conferences](http://daho.am/) or even a public viewing location for sport events. Subscribe to the [Stylight events calendar [Stylight login required]](https://www.google.com/calendar/render?cid=stylight.de_mp0pspf6i6gukj8032rc4qmcec@group.calendar.google.com) to see what’s up. If you would like to host an event at the office yourself, please use this [form [Stylight login required]](https://docs.google.com/a/stylight.com/forms/d/1WMW71cJsGtMrAetvXHPJhA88ZSD0JTt8KtnXSvCsNEs/viewform?usp=send_form) to make sure there are no date conflicts with other events.
 
 ## Food and drinks
 

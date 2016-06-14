@@ -26,6 +26,6 @@ How we **communicate with the outside world**:
 * Our blog - [blog.stylight.com](http://blog.stylight.com)
 * Our engineering blog - [engineering.stylight.com](http://engineering.stylight.com)
 * A mailing list for our customers
-* Twitter - our twitter handles are [@Stylight](https://twitter.com/Stylight/) and [@CodeTailors](https://twitter.com/CodeTailors)
-* Instagram - our accounts are [Stylight](https://instagram.com/stylight/) and [CodeTailors](https://instagram.com/codetailors/)
+* Twitter - our twitter handles are [@Stylight](https://twitter.com/Stylight/) and [@StylightTech](https://twitter.com/StylightTech)
+* Instagram - our account is [Stylight](https://instagram.com/stylight/)
 * [Facebook](https://www.facebook.com/InsideSTYLIGHT)

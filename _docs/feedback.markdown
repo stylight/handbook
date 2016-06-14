@@ -17,7 +17,7 @@ Feedback should...
 
 ## When does feedback happen?
 
-If you got feedback for someone, you shouldn't wait: give it to them right away. Nevertheless, we find it helpful to have some time cut out to reflect and get feedback. Otherwise, it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your manager instead.
+If you got feedback for someone, you shouldn't wait: give it to them right away. Nevertheless, we find it helpful to have some time cut out to reflect and get feedback. Otherwise, it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly. The feedback sessions alternate between 1:1s with your manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your manager instead.
 
 ![Feedback timeline](../assets/FeedbackTimeline.png)
 
@@ -47,7 +47,7 @@ If you got feedback for someone, you shouldn't wait: give it to them right away.
   * Remind yourself on how to [give](#give) and [receive](#receive) feedback.
   * Everyone shares their points of view on the guiding questions - focus on behaviour, not the person.
   * Discuss - be curious, not defensive. Take some notes.
-  * Come up with new personal OKRs - during or after the session.
+  * Come up with new personal development goals - during or after the session.
   * Thank your peers for their feedback.
 * Reflect on the feedback - the received feedback is yours and yours alone,
 you decide what to do with it

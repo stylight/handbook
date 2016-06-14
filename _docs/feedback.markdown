@@ -17,14 +17,14 @@ Feedback should...
 
 ## When does feedback happen?
 
-If you got feedback for someone, you shouldn't wait: give it to them right away. Nevertheless, we find it helpful to have some time cut out to reflect and get feedback. Otherwise, it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your people manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your people manager instead.
+If you got feedback for someone, you shouldn't wait: give it to them right away. Nevertheless, we find it helpful to have some time cut out to reflect and get feedback. Otherwise, it's too easy to get burried in your work and not take the time to seek out feedback. Formalized feedback happens quarterly and should result in your [individual OKRs](goals.html). The feedback sessions alternate between 1:1s with your manager and group meetings with your peer group. Getting feedback from a peer group is voluntary, but recommended. The fallback is having a session with your manager instead.
 
 ![Feedback timeline](../assets/FeedbackTimeline.png)
 
 ## Why we do peer feedback
 
 * peers have valuable and meaningful feedback
-* feedback by peers provides a broader perspective of one’s contribution (people manager may work in other team)
+* feedback by peers provides a broader perspective of one’s contribution (manager may work in other team)
 * feedback from peers encourages teamwork and builds trust
 * separation from pay raise decisions enables giving and receiving feedback in an open and non-judgmental way
 * make re-selection a natural part of the process
@@ -236,10 +236,10 @@ You should clarify this with your peer group before / at the beginning of your f
   * Manuel: I worked in a distributed company before where we did peer group feedback sessions. We tried to do them in-person before or after company events when everyone was coming together anyway. But we also did them over hangouts. It is harder and not as great as in-person meetings, but it's doable. My suggestion would be that you try this with a peer group over hangout. If you find that it does not work for you at all, you can of course go back to what you are doing right now. I think though, that a peer group will provide added value for you. Even over hangout.
 * **How much time should I spend on reflection / preparing for a peer group session?**
   * Manuel: I suggest to spend about 30 minutes on reflecting about the feedback recipient. A lack of preparation significantly decreases the benefit for the feedback recipient and suggests a lack of appreciation or interest.
-* **Should I invite my people manager to my peer group?**
+* **Should I invite my manager to my peer group?**
   * Manuel: We deliberately separated the peer feedback from salary negotiations, because it allows for more open and honest feedback both as receiver as well as provider. I would advise against having her in your peer group, but in the end it’s up to you.
 * **Who monitors the measures developed in the peer group session?**
-  * Manuel: It is your own responsibility to implement the measures and goals developed in the peer group session. There is no monitoring by feedback providers or your people manager, however you can ask for their help with the implementation.
+  * Manuel: It is your own responsibility to implement the measures and goals developed in the peer group session. There is no monitoring by feedback providers or your manager, however you can ask for their help with the implementation.
 * **Can I decline an invitation to a peer group?**
   * Manuel: If you don’t have the time to properly prepare for a peer feedback session or have any other important reason you may decline an invite. If someone declines to be in your peer group don’t be offended. It is probably more helpful if they say no rather than saying yes, but can’t put in the effort.
 * **I just started working here. Should I still meet with a peer group?**

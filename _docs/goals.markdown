@@ -22,6 +22,6 @@ The company OKRs are the goals behind Stylight’s mission and strategy (most li
 Team OKRs are defined collaboratively every quarter and for each team in a bottom up approach. Each team defines objectives toward Stylight’s company mission and company OKRs. They help us arrive at a common understanding and align our efforts. Every team reports their progress during the Team Weekly.
 
 ## Individual OKRs
-Your individual OKRs are used to keep track of your personal development and are defined by yourself with the help of your People Manager. These are not used to determine promotions. They are for you to plan your personal development and to keep an eye on what you’ve accomplished.
+Your individual OKRs are used to keep track of your personal development and are defined by yourself with the help of your manager. These are not used to determine promotions. They are for you to plan your personal development and to keep an eye on what you’ve accomplished.
 
 Read [this](http://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) and [this](http://bit.ly/okrs-explained), if you want to know more about OKRs.

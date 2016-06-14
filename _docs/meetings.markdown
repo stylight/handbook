@@ -20,5 +20,5 @@ Let’s face it, sitting around in meetings all day and not getting any actual w
 | Team weekly      | everyone    | weekly    |             1 | teams share results with everyone         |
 | Strategy monthly | all permanent employees | monthly |   1 | strategy update by management             |
 | Guilds    | whoever is interested | monthly |     3 | people interested in a topic exchange knowledge or practice |
-| Personal OKRs / feedback | me + people manager / peer group | quarterly | 2 | discuss and set goals for personal development |
+| Personal OKRs / feedback | me + manager / peer group | quarterly | 2 | discuss and set goals for personal development |
 | Department OKRs  | department  | quarterly |             2 | align the team on the goals for the quarter |

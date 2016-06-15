@@ -6,12 +6,12 @@ next_section: knowledge-sharing.html
 
 # Leadership
 
-## Founder Preamble
+Our leadership framework is...
 
-* We are committed to an organization in which the four founders act as servant leaders.
-* We put our strengths at the disposal of the organization in an advisory capacity.
-* The responsibilities for tasks follow the strengths of the founders.
-* Any holes below the waterline require consensus.
-* We are committed to the founder mission statement.
+* based on our [core values](what-we-value.html)
+* based on a servant leadership culture
+* designed to help enabling everyone of us to **maximize impact & personal growth**.
+* designed to make decisions as close to execution as possible
+* designed so that everyone has someone who cares for their personal growth
 
-You might know now a lot about our roles, values and team structure. But how does Leadership at Stylight look like? As you could read already under [roles](roles.html) our managers primary task is the development of employees assigned to her. The [HR Guidelines [Stylight login required]](https://drive.google.com/drive/u/0/folders/0BxykhaAxvQPrTFVUdlpZQXNneG8) for managers give you important information on how to handle situations in your daily working life. 
+The [People Wiki [Stylight login required]](https://drive.google.com/drive/u/0/folders/0BxykhaAxvQPrTFVUdlpZQXNneG8) for managers contains information on what this means in your daily working life. 

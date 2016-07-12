@@ -127,7 +127,7 @@ You may pick a set of guiding questions that other companies use below. You can 
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://www.spotify.com"><img src="https://pbs.twimg.com/profile_images/634474652967006208/46qwP9AX_normal.png" alt="Spotify"></a></td>
+        <td><a href="https://www.spotify.com"><img src="http://pixel.nymag.com/imgs/daily/vulture/2015/06/26/26-spotify.w529.h529.jpg" alt="Spotify"></a></td>
         <td><ul>
           <li>What behaviour can I be proud of?</li>
           <li>What achievement can I be proud of?</li>
@@ -135,6 +135,14 @@ You may pick a set of guiding questions that other companies use below. You can 
           <li>What achievement could I improve?</li>
           <li>How well am I doing in terms of impact?</li>
           <li>How well am I doing in terms of culture?</li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"></a></td>
+        <td><ul>
+          <li>What behaviour should I start?</li>
+          <li>What behaviour should I stop?</li>
+          <li>What behaviour should I continue?</li>
         </ul></td>
     </tr>
     <tr>

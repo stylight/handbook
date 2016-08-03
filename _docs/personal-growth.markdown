@@ -57,7 +57,7 @@ You have impact across teams. You lead cross-team efforts involving more people 
  - Is our culture a good fit for your personality?
  - How could you influence our culture more to be how you would like it to be?
 
-The model is intentionally vague. It is not necessary that your interpretation of it exactly matches everyone else's. On the contrary, the differences are where the most interesting conversations emerge from. The power of this model comes from tracking your own progress over time and not so much from comparing yourself with others. Different roles have different reach profiles, which makes it especially counter-productive to compare yourself to people in another role. Even though the goal is to grow, your impact may also shrink at some stage.
+The model is intentionally vague. It is not necessary that your interpretation of it exactly matches everyone else's. On the contrary, the differences are where the most interesting conversations emerge from. The power of this model comes from tracking your own progress over time and not so much from comparing yourself with others. Different roles have different reach profiles, which makes it especially counter-productive to compare yourself to people in another role. Even though the goal is to grow, your impact may also shrink at some stage due to changes in role or other circumstances. And that's OK.
 
 ### Example
 
@@ -87,7 +87,7 @@ The model is intentionally vague. It is not necessary that your interpretation o
  - I organize my daily work and prioritize my tasks on my own and consistently keep stakeholders up to date.
  - I see many team mates following my example of how I document/communicate results
  - I could learn more about me being a leader by asking leadership focused questions in my next peer feedback 
- - I could increase my leadership scope by sharing interesting blogs not only with my team but also via the slack channels #random oder #general or even create a specific slack channel for interesting blogs
+ - I could increase my leadership scope by sharing interesting blog posts not only with my team but also to a wider audience via Slack channels
 
 5. Culture
  - Our culture fits to my personality as I can be completely myself and am accepted for who I am and how I work. I also enjoy being amongst other Stylighters - be it at work or outside work.
@@ -97,7 +97,7 @@ The model is intentionally vague. It is not necessary that your interpretation o
 
 ### Patterns
 
-There are some interesting patterns to look out for which may be worth discussing to identify areas for potential growth.
+There are some interesting patterns to look out for. Often there is a strong correlation between _values_ & _culture_, _mastery_ & _impact_ or _leadership_ & _impact_. If you find a big gap while comparing the reach of those areas with each other this might be worth discussing to identify areas for potential growth.
 
 - Major difference in reach in values and culture
 - Major difference in reach in mastery and impact

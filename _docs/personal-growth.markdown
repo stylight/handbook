@@ -95,10 +95,6 @@ The model is intentionally vague. It is not necessary that your interpretation o
  - I take care that we celebrate team success together (country launches, new hire, etc.)
  - I could increase my impact on culture by attending more team events, organizing our next team event...
 
-
-
-
-
 ### Patterns
 
 There are some interesting patterns to look out for which may be worth discussing to identify areas for potential growth.
@@ -114,7 +110,7 @@ Naturally, you want your growth to be reflected in your salary. You may use this
 
 ## Community
 
-There is a vibrant community that will help you along the way of your personal growth. You can use it for [feedback](feedback.html), exchange, cooperation, knowledge sharing, career ideas and coaching. Some of this we have formalized, but the real power comes from you owning and driving your growth.
+There is a vibrant community that will help you along the way of your personal growth. You can use it for [feedback](feedback.html), exchange, cooperation, knowledge sharing, career ideas and coaching. The model above can be helpful in any of these contexts to visualize and discuss your personal growth. It was designed to act as conversation guideline for feedback sessions with your peers or manager. Some of this we have formalized, but the real power comes from you owning and driving your growth.
 
 ![Growth community](../assets/growthCommunity.png)
 

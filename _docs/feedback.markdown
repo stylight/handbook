@@ -304,7 +304,7 @@ You have impact across teams. You lead cross-team efforts involving many people 
  - Is our culture a good fit for your personality?
  - How could you influence our culture more to be how you would like it to be?
 
-The model is intentionally vague. It is not necessary that your interpretation of it exactly matches everyone else's. On the contrary, the differences are where the most interesting conversations emerge from. The power of this model comes from tracking your own progress over time and not so much from comparing yourself with others. Different roles have different reach profiles, which makes it especially counter-productive to compare yourself to people in other roles. Even though the goal is to grow, your impact may also shrink at some stage due to changes in your role or other circumstances. And that's OK.
+The definition is intentionally vague. It is not necessary that your interpretation of it exactly matches everyone else's. On the contrary, the differences are where the most interesting conversations emerge from. The power of this tool comes from tracking your own progress over time and not so much from comparing yourself with others. Different roles have different reach profiles, which makes it especially counter-productive to compare yourself to people in other roles. Even though the goal is to grow, your impact may also shrink at some stage due to changes in your role or other circumstances. And that's OK.
 
 ### Example
 
@@ -359,7 +359,7 @@ At Stylight we’re lucky to have a vibrant community that will help you along t
 
 ## Personal development budget
 
-Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You can find all the details in our [Development Budget Guidelines [Stylight login required]](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)
+You can use the feedback which you received from the community for chosing the right development activites for you. Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You can find all the details in our [Development Budget Guidelines [Stylight login required]](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)
 
 
 ## Further reading

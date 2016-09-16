@@ -19,6 +19,6 @@ We use Objectives and Key Results (OKRs) to set goals and track our progress tow
 The strategic goals of the company build the basis for all our team OKRs. They are set each year by management.
 
 ## Team OKRs
-Team OKRs are defined collaboratively every quarter and for each team in a bottom up approach. Each team defines objectives toward Stylight’s company strategy. They help us arrive at a common understanding and align our efforts. Every team reports their progress during the Team Weekly.
+Team OKRs are defined collaboratively every quarter and for each team in a bottom up approach. Each team [defines objectives toward Stylight’s company strategy](https://medium.com/manuelkublbock/pulling-in-the-same-direction-with-autonomous-teams-693d8f2f748d#.6eisdzo6v). They help us arrive at a common understanding and align our efforts. Every team reports their progress during the Team Weekly.
 
 For further background information, watch [how Google uses OKRs](http://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) and read [this description of the fundamentals of OKRs](http://bit.ly/okrs-explained).

@@ -1,7 +1,7 @@
 ---
 title: Development process
 prev_section: goals.html
-next_section: personal-growth.html
+next_section: feedback.html
 ---
 
 # Development process

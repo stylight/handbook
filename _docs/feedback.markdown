@@ -1,6 +1,6 @@
 ---
 title: Feedback
-prev_section: personal-development.html
+prev_section: personal-growth.html
 next_section: mentoring.html
 ---
 
@@ -252,7 +252,7 @@ You should clarify this with your peer group before / at the beginning of your f
   * Manuel: If you don’t have the time to properly prepare for a peer feedback session or have any other important reason you may decline an invite. If someone declines to be in your peer group don’t be offended. It is probably more helpful if they say no rather than saying yes, but can’t put in the effort.
 * **I just started working here. Should I still meet with a peer group?**
   * Manuel: Your peers may not be able to give you much feedback about your performance so far. You could, however, talk with them about your goals and aspirations by choosing more future focussed [guiding questions](#guiding-questions).
- 
+
 ## How can I discuss my personal growth?
 
 At Stylight we have a variety of possibilities of growing personally. What you see below is one tool which can help to visualize and discuss your personal growth. It was designed to act as conversation guideline for feedback sessions with your peers or manager.
@@ -333,7 +333,7 @@ The definition is intentionally vague. It is not necessary that your interpretat
 4. Leadership
  - I organize my daily work, prioritize my tasks on my own and consistently keep stakeholders up to date.
  - I see many teammates following my example of how I document/communicate results
- - I could learn more about me being a leader by asking leadership focused questions in my next peer feedback 
+ - I could learn more about me being a leader by asking leadership focused questions in my next peer feedback
  - I could increase my leadership scope by sharing interesting blog posts not only with my team but also with a wider audience via Slack channels
 
 5. Culture

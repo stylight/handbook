@@ -8,4 +8,4 @@ collections:
   docs:
     output: true
 company_name: "Stylight"
-baseurl: ""
+baseurl: "/handbook"

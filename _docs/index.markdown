@@ -6,11 +6,11 @@ next_section: what-we-value.html
 
 This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Stylight works and why.
 
-[Stylight](http://www.stylight.com) is a product company based in Munich (Germany) with offices in New York (US) and London (UK).
+[Stylight](http://www.stylight.com) is a product company based in Munich (Germany) with offices in Philadelphia (US) and London (UK).
 
 This site is a brief guide to our company. As Stylight continues to grow, we hope that we can reduce any uncertainty for new team members and make each Stylighter's start more relaxed.
 
-We tried to keep this site on a broad enough level, as not to be outdated right away while still giving you an overview of what makes Stylight tick. 
+We tried to keep this site on a broad enough level, as not to be outdated right away while still giving you an overview of what makes Stylight tick.
 
 This site is on [Github](https://github.com/stylight/handbook), so you can edit it. Once you’ve read it, help us to make it better for other new people. Suggest new sections, or change existing ones. Or if you’re not all that comfortable editing it, annotate it: make comments and suggestions. We’ll collectively review the changes and fold them into future revisions.
 

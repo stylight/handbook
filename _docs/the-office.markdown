@@ -8,7 +8,7 @@ next_section: recruiting.html
 
 ## Rooms
 
-There are very few small office rooms. We value the amplified communication of sitting next to each other. Most people sit with their team somewhere in the open office surrounding the atrium or on the first and second floor. When people need some quiet time, they put on their noise cancellation headphones or go to a meeting room or sit at the picnic tables outside.
+There are very few small office rooms. We value the amplified communication of sitting next to each other. Most people sit with their team somewhere in the open office surrounding the atrium or on the first floor. When people need some quiet time, they put on their noise cancellation headphones or go to a meeting room or sit at the picnic tables outside.
 
 ## The atrium
 
@@ -20,6 +20,7 @@ The atrium turns into a stage for [meetups](http://engineering.stylight.com/), [
 
 ## Food and drinks
 
-Each morning we get fresh fruit delivered to the office, which you can find in a basket at the front desk and in the upstairs hallways. Feel free to grab some. There are usually sweets and nuts too. Don’t feel bad about it, live a little.
+Each morning we get fresh fruit delivered to the office, which you   
+ can find in a basket at the front desk and in the kitchen on the first floor. Feel free to grab some. There are usually sweets and nuts too. Don’t feel bad about it, live a little.
 
 In the kitchen you’ll find complimentary cereal, a water cooler, fridges and dishwashers. There is also an oven, a stovetop and kitchen utensils for you to use if that’s what you’re into. Outside the kitchen, you’ll find our coffee machine which is highly frequented. On the other side of the atrium is a fridge well stocked with delicious Bavarian brews. Also highly frequented, though at different times than the coffee machine.

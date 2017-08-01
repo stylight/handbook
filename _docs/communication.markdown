@@ -24,7 +24,7 @@ How we **communicate with the outside world**:
 
 * Our website - [www.stylight.com](http://www.stylight.com)
 * Our blog - [blog.stylight.com](http://blog.stylight.com)
-* Our engineering blog - [engineering.stylight.com](http://engineering.stylight.com)
+* Our engineering blog - [tech.stylight.com](http://tech.stylight.com)
 * A mailing list for our customers
 * Twitter - our twitter handles are [@Stylight](https://twitter.com/Stylight/) and [@StylightTech](https://twitter.com/StylightTech)
 * Instagram - our account is [Stylight](https://instagram.com/stylight/)

@@ -8,7 +8,6 @@ next_section: roles.html
 
 Even though we are growing, we try to keep the hierarchy as flat as possible and bureaucracy at a minimum. We avoid politics altogether. If you spot any politics or unnecessary bureaucracy, especially early on with a fresh look on things, please speak up so we can work together to get rid of it.
 
-![Org Chart](../assets/OrgChart2.png)
 
 ## Teams
 

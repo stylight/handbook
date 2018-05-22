@@ -6,7 +6,7 @@ next_section: what-we-value.html
 
 This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Stylight works and why.
 
-[Stylight](http://www.stylight.com) is a product company based in Munich (Germany) with offices in Philadelphia (US) and London (UK).
+[Stylight](http://www.stylight.com) is a product company based in Munich (Germany) with another office in Philadelphia (US).
 
 This site is a brief guide to our company. As Stylight continues to grow, we hope that we can reduce any uncertainty for new team members and make each Stylighter's start more relaxed.
 

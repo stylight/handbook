@@ -6,7 +6,7 @@ layout: null
    {
      {% if page.title != nil %}
         "title"    : "{{ page.title | escape }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "url"      : "{{ relative_url }}{{ page.url }}",
         "content"  : "{{ page.content | strip_html | strip_newlines }}"
      {% endif %}
    } {% unless forloop.last %},{% endunless %}

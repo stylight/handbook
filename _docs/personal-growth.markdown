@@ -10,7 +10,13 @@ next_section: feedback.html
 
 To make career at Stylight you don't have to become a manager, if that is not what you want. We equally value you getting better and growing your impact in your domain. We don't want Stylight to be only 'up or out'.
 
-To discuss your personal growth we use the following model. There are five main characteristics that we find valuable in employees and we measure them in spheres of impact. Meaning, if you consistently demonstrate them on personal, team or company level.
+## Personal development budget
+
+Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You can find all the details in our [Development Budget Guidelines [Stylight login required]](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)
+
+## Personal Growth Model
+
+To discuss your personal growth you can also use the model below. There are five main characteristics that we find valuable in employees and we measure them in spheres of impact. Meaning, if you consistently demonstrate them on personal, team or company level.
 
 1. You embody our three core [company **values** Enthusiasm, Appreciation and Responsibility](what-we-value.html).
 2. You demonstrate **mastery** of your domain. How good are you in what you do?
@@ -63,37 +69,6 @@ The model is intentionally vague. It is not necessary that your interpretation o
 
 ![Growth diagram example](../assets/growthExample.png)
 
-1. Values
- - I do BBLs about analytical thinking, I am the organizer of a guild for reporting enthusiasts and support the organisation of ship it days
- - I acknowledge the performance of my teammates and other colleagues in Stand-ups and Team Weekly.
- - I take on DRI responsibilities of holding workshops for Excel or Google Analytics for the company
- - I could be more enthusiastic when it comes to company wide projects/events
- - I could take on more responsibility by spreading topics also on a VP level
-
-2. Mastery
- - I like to work with numbers, calculate our KPIs and derive action plans from it
- - be in charge of our investment planning, etc.
- - I also provide other teams with reliable analysis & reports - I am the go to person, when a team needs help in setting up number driven decisions
- - I could improve my knowledge by setting clear short term and long term focus regarding my work & impact. And then I need to take the right measures (exchanges, mentor, workshops) to boost my expertise in order to achieve the goals I set myself.
-
-3. Impact
- - By analysing our CPC we saved X€ per month.
- - I often take the responsibility for team projects as DRI
- - I always try to optimize not only the processes I work with but also help my colleagues to get better in what they are doing
- - I could increase my business impact by taking over the DRI role more often
- - I can also increase my impact by sharing important knowledge with our newbies (e.g. Agile/Coding/IT101)
-
-4. Leadership
- - I organize my daily work and prioritize my tasks on my own and consistently keep stakeholders up to date.
- - I see many teammates following my example of how I document/communicate results
- - I could learn more about me being a leader by asking leadership focused questions in my next peer feedback
- - I could increase my leadership scope by sharing interesting blog posts not only with my team but also with a wider audience via Slack channels
-
-5. Culture
- - Our culture fits my personality. I can be completely myself and am accepted for who I am and how I work. I also enjoy being amongst other Stylighters - be it at work or outside of it.
- - I organize company wide team events: “Running group”.
- - I ensure that we celebrate team successes together (country launches, new hire, etc.)
- - I could increase my impact on culture by attending more team events, organizing our next team event...
 
 ### Patterns
 
@@ -113,8 +88,3 @@ Naturally, you want your growth to be reflected in your salary. You may use this
 There is a vibrant community that will help you along the way of your personal growth. You can use it for [feedback](feedback.html), exchange, cooperation, knowledge sharing, career ideas and coaching. The model above can be helpful in any of these contexts to visualize and discuss your personal growth. It was designed to act as conversation guideline for feedback sessions with your peers or manager. We have formalized some of these community interactions but the real power comes from you owning and driving your growth.
 
 ![Growth community](../assets/growthCommunity.png)
-
-
-## Personal development budget
-
-Every employee has a personal development budget. What you do with it is up to you. Go to conferences, buy books, participate in workshops or something entirely different. It’s your pick. You can find all the details in our [Development Budget Guidelines [Stylight login required]](https://docs.google.com/document/d/1yB6Ahp-iW8YsKSETBSXsO_wEw7skE4_weLBJPoI6kXs)

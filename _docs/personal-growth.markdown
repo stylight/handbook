@@ -85,6 +85,4 @@ Naturally, you want your growth to be reflected in your salary. You may use this
 
 ## Community
 
-There is a vibrant community that will help you along the way of your personal growth. You can use it for [feedback](feedback.html), exchange, cooperation, knowledge sharing, career ideas and coaching. The model above can be helpful in any of these contexts to visualize and discuss your personal growth. It was designed to act as conversation guideline for feedback sessions with your peers or manager. We have formalized some of these community interactions but the real power comes from you owning and driving your growth.
-
-![Growth community](../assets/growthCommunity.png)
+There is a vibrant community that will help you along the way of your personal growth. You can use it for [feedback](feedback.html), exchange, cooperation, knowledge sharing, career ideas and coaching. The model above can be helpful in any of these contexts to visualize and discuss your personal growth. It was designed to act as conversation guideline for feedback sessions with your peers or manager. The real power comes from you owning and driving your growth.

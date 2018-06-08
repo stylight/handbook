@@ -9,3 +9,4 @@ collections:
     output: true
 company_name: "Stylight"
 baseurl: "/handbook"
+url: "http://wiki.stylight.net"

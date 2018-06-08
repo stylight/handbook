@@ -12,6 +12,6 @@ At 12:30ish most Stylighters venture out to find some food at one of the surroun
 
 Most teams have synchronized two week development iterations (aka sprints) which start and end Wednesday-ish.
 
-Also on Wednesdays at 12:45 we have brown bag lunches where we learn about interesting topics from one another. Someone from the company talks about a topic he/she is interested in. This could be about absolutely anything really - whether it be the new tool you are working with or the zen in beekeeping.
+If you're lucky you'll witness a colleague holding a brown bag lunch. It's a short talk during lunch time where we learn about interesting topics from one another. It is usually someone from the company who talks about a topic he/she is interested in. This could be about absolutely anything really - whether it be the new tool you are working with or the zen in beekeeping.
 
-On Fridays at 5 o’clock the entire company meets in the atrium and each department presents what they achieved this week at the Team Weekly - ‘team’ as in the entire company. Many grab a beer out of the fridge for this and stay afterwards to chat with colleagues or catch a game of beer pong to start the weekend off right.
+On Fridays at 4 o’clock the entire company meets in the atrium and each department presents what they achieved this week at the Team Weekly - ‘team’ as in the entire company. Many grab a beer out of the fridge for this and stay afterwards to chat with colleagues or catch a game of beer or ping pong to start the weekend off right.

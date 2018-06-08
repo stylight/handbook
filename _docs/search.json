@@ -2,13 +2,10 @@
 layout: none
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.documents %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

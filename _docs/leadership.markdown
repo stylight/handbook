@@ -1,6 +1,6 @@
 ---
 title: Leadership
-prev_section: mentoring.html
+prev_section: feedback.html
 next_section: knowledge-sharing.html
 ---
 
@@ -14,4 +14,4 @@ Our leadership framework is...
 * designed to make decisions as close to execution as possible
 * designed so that everyone has someone who cares for their personal growth
 
-The [People Wiki [Stylight login required]](https://drive.google.com/drive/u/0/folders/0BxykhaAxvQPrTFVUdlpZQXNneG8) contains information on what this means in your daily working life. 
+The [People Wiki [Stylight login required]](https://drive.google.com/drive/u/0/folders/0BxykhaAxvQPrTFVUdlpZQXNneG8) contains information on what this means in your daily working life.

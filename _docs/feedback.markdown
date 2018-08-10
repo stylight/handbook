@@ -1,7 +1,7 @@
 ---
 title: Feedback
 prev_section: personal-growth.html
-next_section: mentoring.html
+next_section: leadership.html
 ---
 
 # Feedback

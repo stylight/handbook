@@ -1,7 +1,7 @@
 ---
 title: Org structure
 prev_section: what-we-value.html
-next_section: roles.html
+next_section: goals.html
 ---
 
 # How we are structured
